@@ -15,8 +15,11 @@ public/hot
 public_html/storage
 public_html/hot
 
+storage/logs/
 storage/*.key
 .env
+.env.behat
+.env.testing
 Homestead.yaml
 Homestead.json
 /.vagrant
